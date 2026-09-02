@@ -16,6 +16,14 @@ With 9+ years of experience across **FinTech, government, sports-tech, and CRM**
 - 💳 AI-powered FinTech solutions
 - 🏥 AI for healthcare & medical analytics
 
+### 🚀 What I Build
+
+- Agentic AI Systems
+- RAG & Knowledge Systems
+- Machine Learning Applications
+- AI-powered Enterprise Software
+- Distributed & Cloud-native Systems
+
 ### 🛠️ Core Technologies
 
 **AI / ML:** Python · Scikit-learn · LLMs · RAG · LangChain · LangGraph · MCP
@@ -25,6 +33,12 @@ With 9+ years of experience across **FinTech, government, sports-tech, and CRM**
 **Data:** Kafka · Apache Spark · Hadoop · PostgreSQL · MySQL · Redis
 
 **Cloud & DevOps:** AWS · Docker · Kubernetes · GitHub Actions
+
+### ⚙️ Software Engineering
+
+- Java • Spring Boot • Microservices
+- Kafka • Redis • PostgreSQL
+- AWS • Docker • Kubernetes
 
 ### 🔬 Research
 
